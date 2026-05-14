@@ -30,9 +30,59 @@ Option 2 would create an AI Transition Service using Jobs and Skills Australia d
 Option 3 would require large employers and high-risk AI users to consult workers, complete AI impact assessments, provide human review for consequential workplace decisions, and disclose when AI is used in monitoring, rostering or performance management. To avoid slowing adoption, SMEs should receive AI adoption vouchers and simple templates based on the Australian Voluntary AI Safety Standard (DISR 2024).
 
 ## Recommended Package and Implementation Plan
+I recommend a combined package rather than a single policy. The best approach is to combine Option 1, Option 2 and Option 3 because AI creates both productivity opportunities and adjustment risks. Training supports adoption, transition services protect workers who are displaced, and responsible AI rules reduce workplace harms.
+
+The Department of Employment and Workplace Relations should lead the package with Jobs and Skills Australia, the Department of Industry, Science and Resources, state training authorities, unions, employers and TAFEs.
+
+**Year 1: Design and pilots**
+
+- Identify occupations with high AI exposure and weak career mobility.
+- Pilot AI micro-credentials in clerical, business services, accounting support, customer service and ICT-adjacent roles.
+- Develop simple AI workplace impact assessment templates.
+- Begin SME adoption vouchers for safe AI tools and staff training.
+
+**Year 2: Scale up**
+
+- Expand AI Skills Guarantee places nationally.
+- Launch the AI Transition Service in regions and sectors with high exposure.
+- Require large employers using high-risk workplace AI to consult workers and provide human review.
+- Publish annual labour-market exposure and transition data.
+
+**Year 3: Review and adjust**
+
+- Evaluate completion rates, employment outcomes and wage changes.
+- Adjust course funding toward skills with strong labour-market returns.
+- Review whether workplace AI rules are reducing unfair or opaque decisions.
+- Expand successful SME adoption programs.
+
+The main KPIs should include micro-credential completion rates, employment outcomes six months after training, wage changes for participants, number of workers supported by the transition service, SME AI adoption rates, and the share of high-risk workplace AI systems covered by impact assessments.
 
 ## Risks and Mitigations
 
+The first risk is poor training quality. Some short courses may become too general and fail to improve employability. This can be reduced by funding only courses linked to occupational standards, employer demand and measurable outcomes.
+
+The second risk is unequal access. Workers who are already confident with technology may use the program most, while more vulnerable workers miss out. To reduce this, places should be targeted to exposed workers, regional workers, women returning to work, migrants and workers in small firms.
+
+The third risk is over-regulation. If AI workplace rules are too complex, firms may delay useful adoption. The mitigation is to focus stricter requirements on high-risk uses, such as hiring, performance management, rostering and surveillance, while giving SMEs simple templates and practical guidance.
+
+The fourth risk is that productivity gains may not flow to wages. This requires monitoring of wages, job quality and market concentration. If gains are captured mainly by dominant firms, labour-market policy should be supported by competition and data-access policy.
+
 ## References
 
+Brynjolfsson, E, Li, D and Raymond, L 2025, ‘Generative AI at work’, *The Quarterly Journal of Economics*, vol. 140, no. 2, pp. 889–942.
+
+Department of Industry, Science and Resources 2024, *Voluntary AI Safety Standard*, Australian Government, Canberra.
+
+Future Skills Organisation 2023, *Generative AI: implications for skills and training*, Future Skills Organisation, Sydney.
+
+International Labour Organization 2025, *Generative AI and jobs: a global analysis of potential effects on job quantity and quality*, ILO, Geneva.
+
+International Monetary Fund 2024, *Gen-AI: artificial intelligence and the future of work*, IMF, Washington DC.
+
+Jobs and Skills Australia 2024, *Jobs and Skills Report 2024*, Australian Government, Canberra.
+
+Productivity Commission 2025, *Harnessing data and digital technology: interim report*, Australian Government, Canberra.
+
 ## AI Use Acknowledgement
+
+I used ChatGPT to help structure the policy proposal, improve clarity, and check whether the Markdown format met the assessment requirements. I reviewed and edited the final content myself, including the policy argument, recommendations and references.
