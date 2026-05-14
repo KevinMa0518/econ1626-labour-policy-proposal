@@ -17,6 +17,17 @@ The third impact is wages and equity. Workers who can use AI may become more pro
 The fourth impact is industrial structure. AI may increase market concentration if large firms have better access to data, computing power and foundation models. This matters for labour markets because concentrated firms may capture productivity gains as profits instead of wages, and smaller firms may fall behind. Therefore, labour-market policy should connect with competition, data and responsible AI policy.
 
 ## Policy Options and Evaluation
+| Option | Efficiency | Equity | Feasibility | Main weakness |
+|---|---|---|---|---|
+| 1. AI Skills Guarantee | High: improves human-AI complementarity and supports adoption | Medium-high: can target exposed workers and SMEs | High: can build on VET, universities and employer training | Training alone may not help displaced workers quickly |
+| 2. AI Transition Service | Medium: reduces frictional unemployment and speeds reallocation | High: supports workers most exposed to displacement | Medium: requires data sharing and service coordination | More costly and may be used too late |
+| 3. Responsible AI at Work + SME adoption support | High: builds trust and encourages safe adoption | High: gives workers voice and limits unfair surveillance or bias | Medium-high: aligns with existing AI safety guidance | Compliance burden if rules are too complex |
+
+Option 1 would fund short, stackable AI micro-credentials in AI literacy, data handling, prompt use, cyber safety and occupation-specific AI tools. It should prioritise clerical workers, early-career professionals, regional workers and SMEs. This option is efficient because it raises complementarity between workers and AI, but it is insufficient if workers have already lost jobs.
+
+Option 2 would create an AI Transition Service using Jobs and Skills Australia data to identify exposed occupations, then provide career coaching, training credits and temporary wage insurance for workers moving into shortage or growth areas. This is strongest on equity because it directly supports adjustment, but it needs careful targeting to avoid becoming a broad subsidy.
+
+Option 3 would require large employers and high-risk AI users to consult workers, complete AI impact assessments, provide human review for consequential workplace decisions, and disclose when AI is used in monitoring, rostering or performance management. To avoid slowing adoption, SMEs should receive AI adoption vouchers and simple templates based on the Australian Voluntary AI Safety Standard (DISR 2024).
 
 ## Recommended Package and Implementation Plan
 
